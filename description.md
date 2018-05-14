@@ -34,6 +34,7 @@ Hibernate, делаем конверторы для типов LocalDateTime (Ja
 -  Скрипты инициализации базы. Spring Jdbc Template.
 -  <a href="https://drive.google.com/file/d/0B9Ye2auQ_NsFU0Z2R190eDllYmM/view">Spring: инициализация и популирование DB</a>
 -  ORM. Hibernate. JPA.
+- [Тестирование JPA сервиса через AssertJ](https://www.youtube.com/watch?v=BlyaXT6tOaw)
 -  Поддержка HSQLDB
 -  Транзакции
 -  Профили Maven и Spring
